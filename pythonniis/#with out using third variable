@@ -1,0 +1,9 @@
+#with out using third variable 
+a=3
+b=5
+print("before swaping a=",a,"b=",b)
+a=a+b
+b=a-b
+a=a-b
+print("before swaping b=",b,"a=",a)
+
